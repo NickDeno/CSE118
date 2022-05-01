@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+F:\Users\Nick DeNobrega\Desktop\CSE Workspaces\CSE118 Workspace\.metadata\.plugins\org.eclipse.jdt.core
+738694570.index
+1684690077.index
+1865797976.index
+1963554758.index
